@@ -1,4 +1,4 @@
-# POS Project v0.1
+# POS Project v0.2
 
 ## 需求描述
 
@@ -11,55 +11,14 @@
 ```javascript
 
 [
-    {
-        barcode: 'ITEM000000',
-        name: '可口可乐',
-        unit: '瓶',
-        price: 3.00
-
-    },
-    {
-        barcode: 'ITEM000000',
-        name: '可口可乐',
-        unit: '瓶',
-        price: 3.00
-    },
-    {
-        barcode: 'ITEM000000',
-        name: '可口可乐',
-        unit: '瓶',
-        price: 3.00
-    },
-    {
-        barcode: 'ITEM000000',
-        name: '可口可乐',
-        unit: '瓶',
-        price: 3.00
-    },
-    {
-        barcode: 'ITEM000000',
-        name: '可口可乐',
-        unit: '瓶',
-        price: 3.00
-    },
-    {
-        barcode: 'ITEM000001',
-        name: '雪碧',
-        unit: '瓶',
-        price: 3.00
-    },
-    {
-        barcode: 'ITEM000001',
-        name: '雪碧',
-        unit: '瓶',
-        price: 3.00
-    },
-    {
-        barcode: 'ITEM000004',
-        name: '电池',
-        unit: '个',
-        price: 2.00
-    }
+    'ITEM000000',
+    'ITEM000000',
+    'ITEM000000',
+    'ITEM000000',
+    'ITEM000000',
+    'ITEM000001',
+    'ITEM000001',
+    'ITEM000004'
 ]
 
 ```
@@ -85,4 +44,4 @@
 ## 作业提示
 
 
-1. 学习将重复的内容合并再转化成清单
+1. 学会遍历查找内容
