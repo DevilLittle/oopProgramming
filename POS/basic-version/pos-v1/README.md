@@ -1,14 +1,5 @@
 # POS Project v1
 
-POS收银机 版本：v1
-
-## 教学目标
-
-1. 熟悉JavaScript的基本语法；
-2. 熟悉JavaScript的基本逻辑语句及关键字；
-3. 熟悉使用Lo-Dash和moment.js等第三方Javascript库改进编码过程和编码质量。
-4. 了解函数式编程的优势。
-
 ## 需求描述
 
 商店里进行购物结算时会使用收银机（POS）系统，这台收银机会在结算时根据客户的购物车（Cart）中的商品（Item）和商店正在进行的优惠活动（Promotion）进行结算和打印购物清单。
